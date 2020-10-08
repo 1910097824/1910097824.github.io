@@ -1,35 +1,31 @@
 ## Welcome to 刘定福's Pages
 
-哈哈哈哈哈哈
+这是一个渴望变得有趣的人的网页。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 基本信息
+·性别：男
+·年龄：19
+·籍贯：广西壮族自治区
+·星座：巨蟹座
 
 ```markdown
-Syntax highlighted code block
+成长经历：·毕业高中：防城港市北部湾高级中学
+          ·参加过全校的演讲比赛（虽然结果很惨X）
+          ·很喜欢和别人唠嗑？（舍友，同桌都被我骚扰过X）
+          
 
-# Header 1
-## Header 2
-### Header 3
+# 兴趣爱好：
+            ·擅长集体跳绳？（集体第一名）
+            ·喜欢跑步（每天傍晚）
+            ·喜欢打羽毛球，乒乓球
+            ·喜欢旅游，去过广西的全部14个地级市，说走就走，来吧！
+            ·喜欢游戏，特别是单机游戏。
+        
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#世界观：世界一直在变，而我们在寻找“不变”的规律来了解世界。
+#联系方式： ·QQ号：1910097824
+            ·微信号：lcever626
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1910097824/1910097824.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
